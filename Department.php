@@ -22,7 +22,7 @@
             <button class="btn btn-outline-success" type="submit">Search</button>
           </form>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="Index.php">Home</a>
+            <a class="nav-link active" aria-current="page" href="index.php">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="About-us.php">About Us</a>
