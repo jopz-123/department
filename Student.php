@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,30 +23,30 @@
                 <button class="btn btn-outline-success" type="submit">Search</button>
               </form>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="Index.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="Index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="About-us.html">About Us</a>
+            <a class="nav-link" href="About-us.php">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Gallery.html">Gallery</a>
+            <a class="nav-link" href="Gallery.php">Gallery</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Department.html">Department</a>
+            <a class="nav-link" href="Department.php">Department</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Campus
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="Student.html">Students Login</a></li>
-              <li><a class="dropdown-item" href="Faculty.html">Faculty Login</a></li>
+              <li><a class="dropdown-item" href="Student.php">Students Login</a></li>
+              <li><a class="dropdown-item" href="Faculty.php">Faculty Login</a></li>
               <li><hr class="dropdown-divider"></li>
               <li><a class="dropdown-item" href="#"></a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="Gallery.html" tabindex="-1" aria-disabled="true">Photo Gallery</a>
+            <a class="nav-link disabled" href="Gallery.php" tabindex="-1" aria-disabled="true">Photo Gallery</a>
           </li>
         </ul>
         <ul class="list-unstyled" style="font-size: 20px;color: rgb(208, 255, 208);">
@@ -124,4 +124,4 @@
   
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 </body>
-</html>
+</php>
